@@ -26,6 +26,7 @@ import ${importFullType};
 @NoArgsConstructor
 @AllArgsConstructor
 </#if>
+@SuppressWarnings("all")
 public class ${meta.type} implements Serializable {
 	<#if meta.queryModelFields??>
 	<#list meta.queryModelFields as queryModelField>

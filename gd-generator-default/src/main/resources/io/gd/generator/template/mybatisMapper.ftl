@@ -17,6 +17,7 @@ import ${otherImport};
 </#if>
 
 @Repository
+@SuppressWarnings("all")
 public interface ${meta.entitySimpleName}Mapper {
 
 	int insert(${meta.entitySimpleName} ${meta.entitySimpleName?uncap_first});

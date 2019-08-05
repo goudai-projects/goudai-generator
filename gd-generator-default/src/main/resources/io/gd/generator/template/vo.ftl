@@ -22,6 +22,7 @@ import ${import};
 @Getter
 @Setter
 </#if>
+@SuppressWarnings("all")
 public class ${meta.className} implements Serializable {
 	/* 原生 */
 <#list meta.fields as field>
