@@ -12,7 +12,6 @@ import java.util.Map;
 
 /**
  * @author jianglin
- * @date 2019-08-28
  */
 public class JpaRepositoryHandler extends ScopedHandler<JpaRepositoryMeta> {
 
