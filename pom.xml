@@ -114,9 +114,9 @@
 
 
     <scm>
-        <connection>scm:git:https://github.com/goudai/gd-generator.git</connection>
-        <developerConnection>scm:git:https://github.com/goudai/gd-generator.git</developerConnection>
-        <url>scm:git:https://github.com/goudai/gd-generator.git</url>
+        <connection>scm:git:https://github.com/goudai-projects/goudai-generator.git</connection>
+        <developerConnection>scm:git:https://github.com/goudai-projects/goudai-generator.git</developerConnection>
+        <url>scm:git:https://github.com/goudai-projects/goudai-generator</url>
         <tag>HEAD</tag>
     </scm>
 
